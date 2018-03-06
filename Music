@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<head>
+<title> Best Music </title>
+<style>
+
+body{
+  text-align: center;
+  background: url("https://www.wallpaperup.com/uploads/wallpapers/2014/03/07/290510/8509a0c0099aef2f3803f2b31197f4b7-700.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: helvetica;
+}
+p {
+  font-size: 30px;
+  color: white;
+}
+img {
+    margin: 40px 0px 0px 0px;
+    border: 7px solid white;
+    border-radius: 30px;
+    max-width: 200px;
+    height:50%;
+    background-color:powderblue;
+  }
+
+a{
+  color:white;
+}
+ ul {
+   padding: 10px;
+   background: black;
+ }
+ li {
+   display: inline;
+   padding: 0px 10px 0px 10px
+
+ }
+
+</style>
+</head>
+
+
+<body>
+  <img src="https://www.cidentertainment.com/wp-content/uploads/2016/09/TheLumineers_1200x628.jpg">
+  <img src="https://crypticrock.com/wp-content/uploads/2015/08/breaking-benjamin-slide.jpg">
+  <img src="http://www.livetracklist.com/wp-content/uploads/2016/04/nice-hair-podcast-artwork.jpg">
+  <img src="https://baaghi.tv/wp-content/uploads/2017/07/Coldplay-feat.jpg">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHrDRgoJWlFBas_qoA9DaUrP1-pUR6dvjvIq57-ilInq6GsSia">
+<p><strong>Hey! Check out our top picks of all music genres. Enjoy!!</strong></p>
+<ul>
+      <li><a href="#">Folk</a></li>
+      <li><a href="#">Rock</a></li>
+      <li><a href="#">Pop</a></li>
+      <li><a href="#">Alternative</a></li>
+      <li><a href="#">Indie</a></li>
+    </ul>
+
+</body>
